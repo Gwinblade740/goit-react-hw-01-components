@@ -1,0 +1,19 @@
+.status {
+  display: block;
+  width: 15px;
+  height: 15px;
+  margin-left: 5px;
+  border-radius: 50%;
+  background-color: green;
+}
+.status_onLine {
+  background-color: red;
+}
+.avatar {
+  display: block;
+  margin-left: 5px;
+}
+.name {
+  font-weight: 600;
+  margin-left: 5px;
+}
